@@ -1,0 +1,10 @@
+---
+- hosts: all
+  tasks:
+      - name: print variable name
+        debug:
+          var: name
+
+      - name: print variable age
+        debug:
+          var: age

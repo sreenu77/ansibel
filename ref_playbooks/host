@@ -22,3 +22,6 @@ rhel
 
 java_ubuntu=openjdk-8-jdk
 java_rhel=java-1.8.0-openjdk
+
+name=gurrampati cnu
+age=22
